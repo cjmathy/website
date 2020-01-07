@@ -1,6 +1,6 @@
 baseURL = "https://cjmathy.netlify.com/"
 languageCode = "en-us"
-title = "Chris Mathy's site"
+title = "Chris Mathy"
 theme = "hugo-whisper-theme"
 
 pygmentsCodeFences = true
