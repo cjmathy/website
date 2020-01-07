@@ -29,9 +29,7 @@
           {{ end }}
         </div>
 
-        <!-- added "no-uppercase" with custom CSS-->
-
-        <a class="button button-primary mb-2 no-uppercase" href="{{ .Site.Params.homepage_button_link | relURL }}">
+        <a class="button button-primary mb-2" href="{{ .Site.Params.homepage_button_link | relURL }}" style = "text-transform: none">
           {{ .Site.Params.homepage_button_text }}
         </a>
       </div>

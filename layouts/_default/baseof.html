@@ -17,10 +17,6 @@
   <link rel="stylesheet" href="{{ ($style | minify | fingerprint).RelPermalink }}">
   {{ end }}
 
-  <!-- overrides the stylesheet with the one in static-->
-  <link rel = "stylesheet"
-   href = "/myStyle.scss" /> 
-
   {{ block "header_css" . }}{{ end }}
 
 </head>
