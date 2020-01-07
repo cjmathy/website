@@ -1,6 +1,6 @@
-baseURL = "www.example.com"
+baseURL = "http://cjmathy.github.io/"
 languageCode = "en-us"
-title = "Hugo Whisper Theme"
+title = "Chris Mathy's site"
 theme = "hugo-whisper-theme"
 
 pygmentsCodeFences = true
@@ -17,31 +17,53 @@ summaryLength = 30
     weight = 1
 
 [[menu.main]]
-    name = "Docs"
-    url = "/docs/"
+    name = "About"
+    url = "/pages/about"
     weight = 2
+    
+[[menu.main]]
+    name = "Research"
+    url = "/pages/research"
+    weight = 3
+    
+[[menu.main]]
+    name = "Publications"
+    url = "/pages/publications"
+    weight = 4
+    
+[[menu.main]]
+    name = "Contact"
+    url = "/pages/contact"
+    weight = 5
 
 [params]
   google_analytics_id=""
-  homepage_button_link = '/docs'
-  homepage_button_text = 'Read The Docs'
-  homepage_intro = 'Whisper is a documentation theme built with Hugo. The design and functionality is intentionally minimal.'
-  homepage_image = '/images/terminal.gif'
+  homepage_button_link = "https://www.biorxiv.org/content/10.1101/2020.01.04.893909v1"
+  homepage_button_text = "Check out our new preprint!"
+  # homepage_intro = 'Whisper is a documentation theme built with Hugo. The design and functionality is intentionally minimal.'
+  homepage_image = "/images/gsp1_fig.jpg"
 
   ## You can enable to add anchor links to header elements
   # enable_anchor_link = true
 
   [params.homepage_meta_tags]
-    meta_description = "Hugo Whisper is a documentation theme built with Hugo."
-    meta_og_title = "Hugo Whisper Theme"
+    meta_description = "Website built with Hugo and the Whisper Theme."
+    meta_og_title = "Chris Mathy's site"
     meta_og_type = "website"
     meta_og_url = "https://hugo-whisper.netlify.com"
-    meta_og_image = "https://raw.githubusercontent.com/JugglerX/hugo-whisper-theme/master/images/tn.png"
-    meta_og_description = "Hugo Whisper is a documentation theme built with Hugo."
+    meta_og_image = "/images/gsp1_fig.jpg"
+    meta_og_description = "Website built with Hugo and the Whisper Theme."
     meta_twitter_card = "summary"
-    meta_twitter_site = "@zerostaticio"
-    meta_twitter_creator = "@zerostaticio"
+    meta_twitter_site = "@cjmathy"
+    meta_twitter_creator = "@cjmathy"
 
   [params.logo]
-      mobile = "/images/logo-mobile.svg"
-      standard  = "/images/logo.svg"
+      mobile = "/images/gsp1.gif"
+      standard  = "/images/gsp1.gif"
+      twitter = "/images/twitter.jpg"
+      github = "/images/github.jpg"
+      orcid = "/images/orcid.jpg"
+      googlescholar = "/images/googlescholar.jpg"
+      
+[markup.goldmark.renderer] # this is needed to use raw html in markdown documents
+    unsafe= true
