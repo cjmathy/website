@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Christopher Mathy on Chris Mathy&#39;s site</title>
+    <link>https://www.ocf.berkeley.edu/~cjmathy/</link>
+    <description>Recent content in Christopher Mathy on Chris Mathy&#39;s site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 28 Nov 2018 15:14:39 +1000</lastBuildDate>
+    
+	<atom:link href="https://www.ocf.berkeley.edu/~cjmathy/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Background</title>
+      <link>https://www.ocf.berkeley.edu/~cjmathy/pages/about/</link>
+      <pubDate>Mon, 11 Feb 2019 19:30:08 +1000</pubDate>
+      
+      <guid>https://www.ocf.berkeley.edu/~cjmathy/pages/about/</guid>
+      <description>Information about Chris Mathy.</description>
+    </item>
+    
+    <item>
+      <title>Research Interests</title>
+      <link>https://www.ocf.berkeley.edu/~cjmathy/pages/research/</link>
+      <pubDate>Mon, 11 Feb 2019 19:30:08 +1000</pubDate>
+      
+      <guid>https://www.ocf.berkeley.edu/~cjmathy/pages/research/</guid>
+      <description>Information about Chris Mathy.</description>
+    </item>
+    
+    <item>
+      <title>Publications</title>
+      <link>https://www.ocf.berkeley.edu/~cjmathy/pages/publications/</link>
+      <pubDate>Mon, 11 Feb 2019 19:30:08 +1000</pubDate>
+      
+      <guid>https://www.ocf.berkeley.edu/~cjmathy/pages/publications/</guid>
+      <description>Information about Chris Mathy.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://www.ocf.berkeley.edu/~cjmathy/pages/contact/</link>
+      <pubDate>Mon, 11 Feb 2019 19:27:37 +1000</pubDate>
+      
+      <guid>https://www.ocf.berkeley.edu/~cjmathy/pages/contact/</guid>
+      <description>Please feel free to reach out at either of the following emails:
+ UCSF email address Personal email address  You can find me on Github, ORCID, and Google Scholar.</description>
+    </item>
+    
+  </channel>
+</rss>
