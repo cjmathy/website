@@ -2,48 +2,48 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pages on Chris Mathy&#39;s site</title>
-    <link>/pages/</link>
+    <link>https://cjmathy.github.io/pages/</link>
     <description>Recent content in Pages on Chris Mathy&#39;s site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 11 Feb 2019 19:30:08 +1000</lastBuildDate>
     
-	<atom:link href="/pages/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://cjmathy.github.io/pages/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Background</title>
-      <link>/pages/about/</link>
+      <link>https://cjmathy.github.io/pages/about/</link>
       <pubDate>Mon, 11 Feb 2019 19:30:08 +1000</pubDate>
       
-      <guid>/pages/about/</guid>
+      <guid>https://cjmathy.github.io/pages/about/</guid>
       <description>Information about Chris Mathy.</description>
     </item>
     
     <item>
       <title>Research Interests</title>
-      <link>/pages/research/</link>
+      <link>https://cjmathy.github.io/pages/research/</link>
       <pubDate>Mon, 11 Feb 2019 19:30:08 +1000</pubDate>
       
-      <guid>/pages/research/</guid>
+      <guid>https://cjmathy.github.io/pages/research/</guid>
       <description>Information about Chris Mathy.</description>
     </item>
     
     <item>
       <title>Publications</title>
-      <link>/pages/publications/</link>
+      <link>https://cjmathy.github.io/pages/publications/</link>
       <pubDate>Mon, 11 Feb 2019 19:30:08 +1000</pubDate>
       
-      <guid>/pages/publications/</guid>
+      <guid>https://cjmathy.github.io/pages/publications/</guid>
       <description>Information about Chris Mathy.</description>
     </item>
     
     <item>
       <title>Contact</title>
-      <link>/pages/contact/</link>
+      <link>https://cjmathy.github.io/pages/contact/</link>
       <pubDate>Mon, 11 Feb 2019 19:27:37 +1000</pubDate>
       
-      <guid>/pages/contact/</guid>
+      <guid>https://cjmathy.github.io/pages/contact/</guid>
       <description>Please feel free to reach out at either of the following emails:
  UCSF email address Personal email address  You can find me on Github, ORCID, and Google Scholar.</description>
     </item>

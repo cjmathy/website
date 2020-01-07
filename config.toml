@@ -1,4 +1,4 @@
-baseURL = "http://cjmathy.github.io/"
+baseURL = "https://cjmathy.github.io/"
 languageCode = "en-us"
 title = "Chris Mathy's site"
 theme = "hugo-whisper-theme"
