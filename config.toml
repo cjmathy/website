@@ -1,6 +1,6 @@
 baseURL = "https://www.chrismathy.com/"
 languageCode = "en-us"
-title = "Chris Mathy"
+title = "Chris Mathy's Personal Site"
 theme = "hugo-whisper-theme"
 
 pygmentsCodeFences = true
