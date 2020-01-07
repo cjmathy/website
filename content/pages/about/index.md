@@ -8,8 +8,6 @@ weight: 1
 
 <img src="/images/headshot.jpeg" alt="drawing" width="150" style="padding-left: 10px" align =  "right" BR CLEAR=”left”>
 
-
-
 I'm currently a Ph.D student in Bioengineering at UCSF and UC Berkeley. I work in the lab of [Dr. Tanja Kortemme](http://kortemmelab.ucsf.edu/), where we use computational protein design, high throughput characterization of phenotypes, and traditional biophysics to better understand how we should make new proteins that do cool things.
 
 __Expertise__
@@ -26,8 +24,3 @@ __Education__
 PhD (expected, 2021), Bioengineering, UC San Francisco and UC Berkeley
 
 BS, Bioengineering with Honors, Stanford University, 2016
-
-__Personal info__
-
-I was born and raised in Illinois, I'm one-half French (and fluent in French), I love the NBA (go Bulls!), and like playing guitar, seeing movies, and going camping in my free time.
-
