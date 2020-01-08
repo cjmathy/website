@@ -12,12 +12,12 @@ I'm currently a Ph.D student in Bioengineering at UCSF and UC Berkeley. I work i
 
 __Expertise__
 
-I do both experimental and computational work to design and study proteins and their cellular functions.
+I do experimental and computational work to study proteins and their cellular functions.
 
-My experimental work is currently done both in yeast or with purified proteins for biochemical and structural characterization. I've also worked with mammalian *in vitro* systems.
+My experimental work is currently done with yeast or purified proteins for biochemical and structural characterization. I've also worked with *in vitro* mammalian systems.
 
 
-Computationally, I use Rosetta for protein modeling, Python for ODE modeling of molecular circuits, and I analyze my biochemical, structural, and 'omics' data in R and Python.
+Computationally, I use Rosetta for protein modeling, Python for ODE modeling of molecular networks, and R and Python to analyze biochemical, structural, and 'omics' data.
 
 __Education__
 
