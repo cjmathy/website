@@ -37,7 +37,7 @@ summaryLength = 30
     weight = 5
 
 [params]
-  google_analytics_id=""
+  google_analytics_id="UA-155602879-1"
   homepage_button_link = "https://www.biorxiv.org/content/10.1101/2020.01.04.893909v1"
   homepage_button_text = "Check out our new preprint!"
   # homepage_intro = 'Whisper is a documentation theme built with Hugo. The design and functionality is intentionally minimal.'
