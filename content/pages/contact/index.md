@@ -6,8 +6,8 @@ weight: 7
 
 Please feel free to reach out at either of the following emails:
 
-- [UCSF email address](mailto:chris.mathy@ucsf.edu)
-- [Personal email address](mailto:cjmathy@gmail.com)
+- chris.mathy at ucsf.edu [(work)](mailto:chris.mathy@ucsf.edu)
+- cjmathy at gmail.com [(personal)](mailto:cjmathy@gmail.com)
 
 You can find me on [Github](https://github.com/cjmathy), [ORCID](http://orcid.org/0000-0002-5546-9733), and [Google Scholar]().
 
