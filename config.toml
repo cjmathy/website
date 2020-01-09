@@ -60,7 +60,7 @@ summaryLength = 30
   [params.logo]
       mobile = "/images/gsp1.gif"
       standard  = "/images/gsp1.gif"
-      email = "/images/email.jpg"
+      email = "/images/twitter.jpg"
       twitter = "/images/twitter.jpg"
       github = "/images/github.jpg"
       orcid = "/images/orcid.jpg"
