@@ -1,6 +1,8 @@
 # Cookie cutter lab notebook using Jupyter-Book
 
-This project directory format 
+Basic project directory format including a `labnotebook` sub-folder built using the Python package `jupyter-book`.
+
+Demo: https://cjmathy.github.io/labproject-cookiecutter/index.html
 
 ## Documentation for Jupyter-book
 
