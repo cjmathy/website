@@ -3,8 +3,11 @@ entries:
 - file: Jupyter-Notebook-Template
 - file: Python-template
 - file: R-template
-- file: experiments/_experiments
-- file: journal/_journal
-- file: notes/_notes
-- file: protocols/_protocols
+- file: experiments/index
+  entries:
+  - file: experiments/20220127_example_python
+  - file: experiments/20220127_example_r
+- file: journal/index
+- file: notes/index
+- file: protocols/index
 
