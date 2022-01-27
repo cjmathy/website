@@ -1,0 +1,10 @@
+root: index
+entries:
+- file: Jupyter-Notebook-Template
+- file: Python-template
+- file: R-template
+- file: experiments/_experiments
+- file: journal/_journal
+- file: notes/_notes
+- file: protocols/_protocols
+
