@@ -38,7 +38,7 @@ That should spit out a link to an HTML page to your console, which you can copy/
 
 
 ## Recommended folder structure
-
+```
 myproject
 └── data
 └── labnotebook
@@ -55,3 +55,4 @@ myproject
      └── references.bib
      └── requirements.txt
 └──  other_directories (folders of PDFs, presentations, etc)
+```
