@@ -20,6 +20,16 @@ jb toc from-project labnotebook -e .md -e .ipynb > labnotebook/_toc.yml
 
 The option `-e [FILETYPE]` tells jupyter-book which file types found in your project to include in the built book.
 
+## Building your notebook
+
+To get a nicely formatted HTML notebook, run the following command from the root directory of your project AFTER your `_toc.yml` is updated:
+
+```
+jb build labnotebook
+```
+
+That should spit out a link to an HTML page to your console, which you can copy/paste into your browser to view your notebook.
+
 ## Extra Tips
 
 - You MUST have a `.md` file in each subdirectory of `labnotebook` and every content file (`.md` or `.ipynb`) MUST have a heading starting with a `#` character at the beginning of the document.
