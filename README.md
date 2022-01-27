@@ -41,6 +41,9 @@ That should spit out a link to an HTML page to your console, which you can copy/
 ```
 myproject
 └── data
+└── scripts
+└── figures
+└── images
 └── labnotebook
      └── experiments
          └── experiments.md
@@ -52,7 +55,5 @@ myproject
      └── _config.yml
      └── _toc.yml
      └── logo.png
-     └── references.bib
-     └── requirements.txt
 └──  other_directories (folders of PDFs, presentations, etc)
 ```
