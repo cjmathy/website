@@ -1,5 +1,7 @@
 # Cookie cutter lab notebook using Jupyter-Book
 
+Please be sure your version is: `jupyter-book>=0.12.1`
+
 Basic project directory format including a `labnotebook` sub-folder built using the Python package `jupyter-book`.
 
 Demo: https://cjmathy.github.io/labproject-cookiecutter/index.html
