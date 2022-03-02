@@ -39,6 +39,7 @@ Bouhaddou, M., Memon, D., Meyer, B., White, K. M., Rezelj, V. V., Correa Marrero
 ------------------------------------------------------------
 Gordon, D. E., Jang, G. M., Bouhaddou, M., Xu, J., Obernier, K., White, K. M., O’Meara, M. J., Rezelj, …, __Mathy, C. J. P.__, … Krogan, N. J. (2020). A SARS-CoV-2 protein interaction map reveals targets for drug repurposing. __*Nature*__. https://doi.org/10.1038/s41586-020-2286-9
 - [Journal link](https://doi.org/10.1038/s41586-020-2286-9) | [Pubmed link](https://pubmed.ncbi.nlm.nih.gov/32353859/) | {download}`Paper PDF <../documents/Gordon_2020.pdf>` | {download}`Supplement PDF <../documents/Gordon_2020_supp.pdf>`
+- Our collaborators in the Krogan lab mapped the interactions between human and SARS-COV-2 proteins, and looked to our group for structural interpretation. I discovered a conserved interaction motif in the C-terminal end of Orf6 and modeled it in Rosetta (see figure, purple) using a previously solved crystal structure of the Nup98-Rae1 complex bound to a protein from an unrelated virus, VSV ([Quan et al 2014](https://www.pnas.org/doi/10.1073/pnas.1409076111)). The analysis predicted a methionine was key to the interaction, and mutations to this methionine were later shown to disrupt Orf6 binding to the complex ([Miorin et al 2020](https://www.pnas.org/doi/10.1073/pnas.2016650117)).
 
 ```{image} ../images/orf6_dark.png
 :width: 650px
