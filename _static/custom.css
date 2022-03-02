@@ -1,0 +1,55 @@
+/* Custom font sizes for headers */
+h1 { font-size: 24px; }
+h2 { font-size: 20px; }
+h3 { font-size: 18px; }
+h4 { font-size: 16px; }
+
+img.centered {
+    display: block;
+    margin-left: auto;
+    margin-right: auto }
+
+code {
+  white-space : pre-wrap !important;
+}
+
+/* Changes to fix jupyter cell output tables for Furo theme */
+div.cell_output table {
+  border: none;
+  border-collapse: collapse;
+  border-spacing: 0;
+  color: var(--color-code-foreground);
+  font-size: 1em;
+  table-layout: fixed;
+}
+
+div.cell_output tbody tr:nth-child(odd) {
+  background: var(--color-code-background);
+}
+
+div.cell_output tbody tr:hover {
+  background: rgba(66, 165, 245, 0.2);
+}
+
+/* Change Sidebar Section titles color */
+.sidebar-tree .toctree-l1>.reference, .sidebar-tree .toctree-l1>label .icon {
+  /* color: var(--color-sidebar-link-text--top-level) */
+  color: var(--color-sidebar-link-text)
+}
+
+
+.highlight { 
+  background: var(--color-background-secondary)
+}
+
+/* Increase size of the icons that toggle light/dark */
+.theme-toggle svg {
+  vertical-align: middle;
+  height: 1.5rem;
+  width: 1.5rem;
+  color: var(--color-foreground-primary);
+  display: none; }
+
+.theme-toggle-header {
+  float: left;
+  padding: 2rem 1rem; }
