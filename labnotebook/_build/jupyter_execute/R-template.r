@@ -1,2 +1,0 @@
-library(stats)
-getwd()

@@ -1,0 +1,61 @@
+# Book settings
+title: Christopher Mathy
+  # author: Dr. Scientist
+logo: ../resources/gsp1.gif
+
+latex:
+  latex_documents:
+    targetname: book.tex
+
+exclude_patterns: []
+
+execute:
+  execute_notebooks: cache
+  allow_errors: true
+  timeout: 300
+
+parse:
+  myst_enable_extensions: 
+    - smartquotes
+    - amsmath
+    - colon_fence
+    - deflist
+    - dollarmath
+    - html_admonition
+    - html_image
+    # - linkify
+    - replacements
+    - smartquotes
+    - substitution
+    - tasklist
+
+html:
+  favicon                   : '../resources/gsp1.gif'  # A path to a favicon image
+  use_edit_page_button      : false  # Whether to add an "edit this page" button to pages. If `true`, repository information in repository: must be filled in
+  use_repository_button     : false  # Whether to add a link to your repository button
+  use_issues_button         : false  # Whether to add an "open an issue" button
+  use_multitoc_numbering    : true   # Continuous numbering across parts/chapters
+  extra_navbar              : '' # Will be displayed underneath the left navbar.
+  extra_footer              : ''  # Will be displayed underneath the footer.
+  google_analytics_id       : 'UA-155602879-1' 
+  home_page_in_navbar       : true  # Whether to include your home page in the left Navigation Bar
+  baseurl                   : 'https://chrismathy.com'  # The base URL where your book will be hosted. Used for creating image previews and social links. e.g.: https://mypage.com/mybook/
+  comments:
+    hypothesis              : false
+    utterances              : false
+
+sphinx:
+  config:
+    html_theme: furo
+    html_theme_options:
+    # light_css_variables is specific for the furo theme
+      light_css_variables:
+        color-code-background: '#f8f9fb'
+      dark_css_variables:
+        color-foreground-primary: '#f0f0f0'
+        color-foreground-secondary: '#aba9a9'
+        color-brand-primary: '#5996eb'
+        color-brand-content: '#5996eb'
+    templates_path: '_templates'
+
+    
