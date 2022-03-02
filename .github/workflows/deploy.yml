@@ -28,7 +28,7 @@ jobs:
     # Build the book
     - name: Build the book
       run: |
-        jupyter-book toc from-project site -e .md -e .ipynb > site/_toc.yml; jupyter-book build site
+        jupyter-book toc from-project site -e .md -e .ipynb -i about > site/_toc.yml; jupyter-book build site
     # Deploy the book's HTML to gh-pages branch
     - name: GitHub Pages action
       uses: peaceiris/actions-gh-pages@v3.6.1
