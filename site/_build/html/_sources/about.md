@@ -2,9 +2,7 @@
 
 <img src="../images/mathy_headshot.jpg" alt="drawing" width="200" style="padding-left: 10px" align =  "right" BR CLEAR=”left”>
 
-I'm completing a Ph.D in Bioengineering at UCSF and UC Berkeley. I work in [Tanja Kortemme's lab](http://kortemmelab.ucsf.edu/), where we use computational protein modeling and design, high throughput mutational analysis, and traditional biophysical and biochemical characterization to better understand the principles governing protein function. 
-
-My CV is available for download {download}`here <../documents/Mathy_CV_Current.pdf>`.
+I'm completing a Ph.D in Bioengineering at UCSF and UC Berkeley. I work in [Tanja Kortemme's lab](http://kortemmelab.ucsf.edu/), where we use computational protein modeling and design, high throughput mutational analysis, and traditional biophysical and biochemical characterization to better understand the principles governing protein function.
 
 ## Expertise
 
