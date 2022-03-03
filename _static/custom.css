@@ -42,7 +42,7 @@ div.cell_output tbody tr:hover {
   background: var(--color-background-secondary)
 }
 
-/* Increase size of the icons that toggle light/dark */
+/*  Increase size of the icons that toggle light/dark
 .theme-toggle svg {
   vertical-align: middle;
   height: 1.5rem;
@@ -52,4 +52,4 @@ div.cell_output tbody tr:hover {
 
 .theme-toggle-header {
   float: left;
-  padding: 2rem 1rem; }
+  padding: 2rem 1rem; } */
