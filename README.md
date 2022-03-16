@@ -1,6 +1,6 @@
 # Personal website
 
-www.chrismathy.com
+Online at www.chrismathy.com
 
 Built using:
 - [Jupyter-book](jupyterbook.org):
