@@ -25,6 +25,6 @@ You can find me on:
     
 - [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Mathy%2C+CJP%5BAuthor%5D&sort=date)
 - [ORCID](http://orcid.org/0000-0002-5546-9733)
-- [Google Scholar](https://scholar.google.com/citations?user=DuBa5oYAAAAJ&hl=en&oi=sra).
+- [Google Scholar](https://scholar.google.com/citations?user=DuBa5oYAAAAJ&hl=en&oi=sra)
 - [Github](https://github.com/cjmathy)
 - [Twitter](https://twitter.com/cjmathy)
