@@ -13,3 +13,17 @@ I've trained as a protein engineer, systems biologist, and computational biologi
 PhD (expected, 2022), Bioengineering, UC San Francisco and UC Berkeley
 
 BS, Bioengineering with Honors, Stanford University, 2016
+
+## Contact information
+
+Please feel free to reach out at either of the following emails:
+
+- chris.mathy at ucsf.edu
+- cjmathy at gmail.com
+
+You can find me on:
+    - [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Mathy%2C+CJP%5BAuthor%5D&sort=date)
+    - [ORCID](http://orcid.org/0000-0002-5546-9733)
+    - [Google Scholar](https://scholar.google.com/citations?user=DuBa5oYAAAAJ&hl=en&oi=sra).
+    - [Github](https://github.com/cjmathy)
+    - [Twitter](https://twitter.com/cjmathy)
