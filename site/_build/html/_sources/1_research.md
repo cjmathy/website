@@ -1,6 +1,10 @@
 # Research Interests
 
-Check out our recent preprint [(here)](https://www.biorxiv.org/content/10.1101/2022.04.13.488230v1)! We report new sites of allosteric regulation in a GTPase, found using a new deep mutational scanning assay for essential genes:
+
+:::{admonition} Check out our recent preprint!
+:class: tip
+
+[Out now on bioRxiv](https://www.biorxiv.org/content/10.1101/2022.04.13.488230v1): we report new sites of allosteric regulation in a GTPase, found using a new deep mutational scanning assay for essential genes
 
 
 ```{image} ../images/dms_paper_dark.png
@@ -16,8 +20,7 @@ Check out our recent preprint [(here)](https://www.biorxiv.org/content/10.1101/2
 :class: only-light
 :alt: Deep mutational scanning of a GTPase uncovers novel allosteric sites
 ```
-
-<hr>
+:::
 
 _I'm interested in how changes to protein structure operate at many scales to impact cellular functions, and how we might harness this inherent sensitivity when we engineer proteins._
 
