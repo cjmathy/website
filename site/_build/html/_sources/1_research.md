@@ -1,6 +1,25 @@
 # Research Interests
 
-_I'm interested in how changes to protein structure operate at many scales to lead to impact cellular functions, and how we can learn to harness this inherent sensitivity when we engineer proteins._
+Check out our recent preprint [(here)](https://www.biorxiv.org/content/10.1101/2022.04.13.488230v1)! We report new sites of allosteric regulation in a GTPase, found using a new deep mutational scanning assay for essential genes:
+
+
+```{image} ../images/dms_paper_dark.png
+:width: 450px
+:align: center
+:class: only-dark
+:alt: Deep mutational scanning of a GTPase uncovers novel allosteric sites
+```
+
+```{image} ../images/dms_paper_light.png
+:width: 450px
+:align: center
+:class: only-light
+:alt: Deep mutational scanning of a GTPase uncovers novel allosteric sites
+```
+
+<hr>
+
+_I'm interested in how changes to protein structure operate at many scales to impact cellular functions, and how we might harness this inherent sensitivity when we engineer proteins._
 
 A single point mutation will alter local chemistries and rearrange interactions with other molecules in the protein's network. But these seemingly small changes often propagate to affect other processes because cellular networks are highly interconnected. This propagation is a key component of genetic diseases like cancer and many neurodegenerative diseases, in which single mutations can reshape the entire body. Understanding this propagation allows us to better design the most effective and least harmful treatments.
 

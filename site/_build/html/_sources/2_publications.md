@@ -6,6 +6,25 @@
 <a href=https://scholar.google.com/citations?user=DuBa5oYAAAAJ&hl=en>Google Scholar</a>
 </p>
 
+## Pre-print
+
+__Mathy, C. J. P.__, Mishra, P., Flynn, J. M., Perica, T., Mavor, D., Bolon, D. N. A.\*, & Kortemme, T.\* (2022). Complete mutational mapping of a GTPase switch in vivo reveals novel allosteric regulation. In __*bioRxiv*__ (p. 2022.04.13.488230). \* denotes co-corresponding authors
+- [bioRxiv link](https://doi.org/10.1101/2022.04.13.488230)
+
+```{image} ../images/dms_paper_dark.png
+:width: 650px
+:align: center
+:class: only-dark
+:alt: Deep mutational scanning of a GTPase uncovers novel allosteric sites
+```
+
+```{image} ../images/dms_paper_light.png
+:width: 650px
+:align: center
+:class: only-light
+:alt: Deep mutational scanning of a GTPase uncovers novel allosteric sites
+```
+
 ## Peer-reviewed publications
 
 Perica, T.\*, __Mathy, C. J. P.\*__, Xu, J., Jang, G. Μ., Zhang, Y., Kaake, R., Ollikainen, N., Braberg, H., Swaney, D. L., Lambright, D. G., Kelly, M. J. S., Krogan, N. J., & Kortemme, T. (2021). Systems-level effects of allosteric perturbations to a model molecular switch. __*Nature*__, 1–6. \* denotes equal contribution
