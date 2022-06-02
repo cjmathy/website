@@ -2,15 +2,15 @@
 
 <img src="../images/mathy_headshot.jpg" alt="drawing" width="200" style="padding-left: 10px" align =  "right" BR CLEAR=”left”>
 
-I'm completing a Ph.D in Bioengineering at UCSF and UC Berkeley. I work in [Tanja Kortemme's lab](http://kortemmelab.ucsf.edu/), where we use computational protein modeling and design, high throughput mutational analysis, and traditional biophysical and biochemical characterization to better understand the principles governing protein function.
+I'm wrapping up my Ph.D in Bioengineering at UCSF and UC Berkeley. I have worked in [Tanja Kortemme's lab](http://kortemmelab.ucsf.edu/), where we use computational protein modeling and design, high throughput mutational analysis, and traditional biophysical and biochemical characterization to better understand and engineer protein function.
 
 ## Expertise
 
-I've trained as a protein engineer, systems biologist, and computational biologist. My research seeks to understand the mechanisms underlying the effects of mutations in cells - how can a small structural change in a protein undermine cellular homeostasis and even lead to disease? My experimental work is currently done with yeast or purified proteins for biochemical and structural characterization. In the past I've worked with cell culture models of cancer to engineer better therapeutic proteins. Computationally, I have extensive experience in R and Python for bioinformatics and Rosetta for protein modeling.
+I've trained as a protein engineer, systems biologist, and computational biologist. My research seeks to understand the mechanisms underlying the effects of mutations in cells - how can a small structural change in a protein undermine cellular homeostasis and even lead to disease? My experimental work is currently done with yeast or purified proteins for biochemical and structural characterization. In the past I've worked with cell culture models of cancer to engineer better therapeutic proteins. Computationally, I have extensive experience in R and Python for bioinformatics and Rosetta for protein modeling. In the future, I'm interested in how high-throughput, rich measurements of cell states can be used to guide protein engineering.
 
 ## Education
 
-PhD (expected, 2022), Bioengineering, UC San Francisco and UC Berkeley
+PhD, Bioengineering, UC San Francisco and UC Berkeley, 2022
 
 BS, Bioengineering with Honors, Stanford University, 2016
 
