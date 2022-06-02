@@ -4,7 +4,7 @@
 :::{admonition} Check out our recent preprint!
 :class: tip
 
-[Out now on bioRxiv](https://www.biorxiv.org/content/10.1101/2022.04.13.488230v1): we report new sites of allosteric regulation in a GTPase, found using a new deep mutational scanning assay for essential genes
+[Out now on bioRxiv](https://www.biorxiv.org/content/10.1101/2022.04.13.488230v1): we report new sites of allosteric regulation in a GTPase, found using a new deep mutational scanning assay for essential genes.
 
 
 ```{image} ../images/dms_paper_dark.png

@@ -76,6 +76,6 @@ Gordon, D. E., Jang, G. M., Bouhaddou, M., Xu, J., Obernier, K., White, K. M., O
 
 ## Other work
 
-My previous work on growth factors formed the basis of an undegraduate honors thesis, and is currently being written up as part of a larger manuscript for submission to a peer-reviewed journal:
+My previous work on growth factor engineering formed the basis of an undergraduate honors thesis:
 
 __Mathy, C. J. P.__ (2016). Engineering the NK1 Fragment of the Human Hepatocyte Growth Factor for Dual Use as a Potent Agonist and a Gene Therapy Delivery Vehicle. Stanford Digital Repository. http://purl.stanford.edu/kw533qg7356 {download}`Thesis PDF <../documents/Mathy_HonorsThesis_BIOE.pdf>`
