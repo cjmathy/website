@@ -8,7 +8,7 @@
 
 ## Pre-print
 
-__Mathy, C. J. P.__, Mishra, P., Flynn, J. M., Perica, T., Mavor, D., Bolon, D. N. A.\*, & Kortemme, T.\* (2022). Complete mutational mapping of a GTPase switch in vivo reveals novel allosteric regulation. In __*bioRxiv*__ (p. 2022.04.13.488230). \* denotes co-corresponding authors
+__Mathy, C. J. P.__, Mishra, P., Flynn, J. M., Perica, T., Mavor, D., Bolon, D. N. A.\*, & Kortemme, T.\* (2022). A complete allosteric map of a GTPase switch in its native network. In __*bioRxiv*__ (p. 2022.04.13.488230). \* denotes co-corresponding authors
 - [bioRxiv link](https://doi.org/10.1101/2022.04.13.488230)
 
 ```{image} ../images/dms_paper_dark.png
