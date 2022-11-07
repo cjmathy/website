@@ -2,7 +2,7 @@
 
 <img src="../images/mathy_headshot.jpg" alt="drawing" width="200" style="padding-left: 10px" align =  "right" BR CLEAR=”left”>
 
-I'm an in-coming postdoc in Lars Steinmetz's Lab at [Stanford](https://web.stanford.edu/group/steinmetzlab/cgi-bin/wordpress/) and [EMBL](https://www.embl.org/groups/steinmetz/). I did my Ph.D in Bioengineering at UCSF and UC Berkeley. working with [Tanja Kortemme](http://kortemmelab.ucsf.edu/) using high throughput analysis of mutations, computational protein modeling and design, and traditional biophysical and biochemical characterization to better understand and engineer protein function.
+I'm a postdoc in Lars Steinmetz's Lab at [Stanford](https://web.stanford.edu/group/steinmetzlab/cgi-bin/wordpress/) (and [EMBL](https://www.embl.org/groups/steinmetz/)). I did my Ph.D in Bioengineering at UCSF and UC Berkeley, working with [Tanja Kortemme](http://kortemmelab.ucsf.edu/). I used high throughput analysis of mutations, biophysical and biochemical characterization of proteins, and computational protein modeling to better understand and engineer protein function.
 
 ## Expertise
 
