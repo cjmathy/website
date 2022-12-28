@@ -11,6 +11,7 @@ Although proteins act at the molecular scale, they're part of a vast network in 
 ## Education
 
 PhD, Bioengineering, UC San Francisco and UC Berkeley, 2022
+
 BS, Bioengineering with Honors, Stanford University, 2016
 
 ## Contact information
