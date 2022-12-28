@@ -40,7 +40,7 @@ A single point mutation will alter local chemistries and rearrange interactions 
 :alt: Profiling the cellular effects of interface mutations in the GTPase Ran/Gsp1
 ```
 
-## What I'm working on now:
+## Recent work
 
 GTPases are small proteins that act as "switches", where they have an ON state and an OFF state determined by binding a GTP or GDP molecule. They control signaling by interacting with other proteins and activating cellular processes in a state-dependent manner. I currently study:
 
@@ -52,7 +52,7 @@ GTPases are small proteins that act as "switches", where they have an ON state a
 
 Gsp1 is a superb example of __protein multifunctionality__: a broadly-defined but essential concept for understanding cells, which often use a single multi-functional protein to coordinate distinct downstream functions in a selective fashion, regulated by diverse mechanisms such as post-translational modification, alternative splicing, or changes in localization. Co-ordinating dissimilar biological processes by operating at the intersection of multiple metabolic or signaling pathways is a promising feature for synthetic biologists seeking to design new living systems.
 
-However, protein engineers typically design or evolve new proteins by optimizing just one function at a time, and state-of-the-art examples of synthetic protein networks tend to consist of simpler linear motifs and are in fact optimized for insulation from other pathways. In contrast, naturally occurring multi-functional proteins are optimized through natural evolution which obligately selects on all of their functions simultaneously. __I am interested in developing news strategies for characterizing and engineering proteins with multiple reliable functions that regulate distinct pathways.__ Please reach out if you're interested in similar problems!
+However, protein engineers typically design or evolve new proteins by optimizing just one function at a time, and state-of-the-art examples of synthetic protein networks tend to consist of simpler linear motifs and are in fact optimized for insulation from other pathways. In contrast, naturally occurring multi-functional proteins are optimized through natural evolution which obligately selects on all of their functions simultaneously. __I am interested in developing new strategies for characterizing and engineering proteins with multiple reliable functions that regulate distinct pathways.__ Please reach out if you're interested in similar problems!
 
 ## What I've worked on in the past:
 
