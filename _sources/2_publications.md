@@ -9,7 +9,7 @@
 ------------------------------------------------------------
 ## A complete allosteric map of a GTPase switch in its native network.
 
-*bioRxiv* (2022)
+*Cell Systems (in press)* (2023)
 
 __Mathy CJP__, Mishra P, Flynn JM, Perica T, Mavor D, Bolon DNA\*, & Kortemme T\*
 
