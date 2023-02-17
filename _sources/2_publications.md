@@ -9,14 +9,13 @@
 ------------------------------------------------------------
 ## A complete allosteric map of a GTPase switch in its native network.
 
-*Cell Systems (in press)* (2023)
+*Cell Systems* (2023)
 
-__Mathy CJP__, Mishra P, Flynn JM, Perica T, Mavor D, Bolon DNA\*, & Kortemme T\*
+__Mathy CJP__, Mishra P, Flynn JM, Perica T, Mavor D, Bolon DNA, & Kortemme T
 
-\* co-corresponding authors
+Mathy et al., A complete allosteric map of a GTPase switch in its native cellular network, Cell Systems (2023), 
 
-[bioRxiv link](https://doi.org/10.1101/2022.04.13.488230)
-
+[Journal link](https://doi.org/10.1016/j.cels.2023.01.003) | {download}`Paper PDF <../documents/Mathy_2023.pdf>`
 
 ```{image} ../images/dms_paper_dark.png
 :width: 500px
