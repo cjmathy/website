@@ -1,30 +1,11 @@
 # Research Interests
 
+## The multi-scale nature of protein function
 
-:::{admonition} Check out our recent preprint!
-:class: tip
-
-[Out now on bioRxiv](https://www.biorxiv.org/content/10.1101/2022.04.13.488230v2): we report new sites of allosteric regulation in a GTPase, found using a new deep mutational scanning assay for essential genes.
+Proteins function within extensive networks of proteins. Even slight changes in a protein caused by mutations can have far-reaching effects beyond its immediate network. This is because cellular networks are highly interconnected. This propagation plays a key role in genetic diseases such as cancer and neurodegenerative diseases, where a single mutation can affect the entire body. Better understanding of this propagation can improve the design of effective and minimally harmful treatments.
 
 
-```{image} ../images/dms_paper_dark.png
-:width: 450px
-:align: center
-:class: only-dark
-:alt: Deep mutational scanning of a GTPase uncovers novel allosteric sites
-```
-
-```{image} ../images/dms_paper_light.png
-:width: 450px
-:align: center
-:class: only-light
-:alt: Deep mutational scanning of a GTPase uncovers novel allosteric sites
-```
-:::
-
-_I'm interested in how changes to protein structure operate at many scales to impact cellular functions, and how we might harness this inherent sensitivity when we engineer proteins._
-
-A single point mutation will alter local chemistries and rearrange interactions with other molecules in the protein's network. But these seemingly small changes often propagate to affect other processes because cellular networks are highly interconnected. This propagation is a key component of genetic diseases like cancer and many neurodegenerative diseases, in which single mutations can reshape the entire body. Understanding this propagation allows us to better design the most effective and least harmful treatments.
+In many cases, individual proteins evolve to be multifunctional: their primary function occurs at the intersection of cellular networks. This ability to co-ordinate dissimilar cellular processes (such as metabolic or signaling pathways) is a promising feature for synthetic biologists when designing new living systems. However, our current understanding and tools for designing multifunctional proteins are limited. Therefore, my research focuses on developing these tools, using both experimental (wet lab) and computational (dry lab) techniques.
 
 ```{image} ../images/propagation_dark.png
 :width: 1300px
@@ -40,20 +21,20 @@ A single point mutation will alter local chemistries and rearrange interactions 
 :alt: Profiling the cellular effects of interface mutations in the GTPase Ran/Gsp1
 ```
 
-## What I'm working on now:
+## Postdoctoral work
 
-GTPases are small proteins that act as "switches", where they have an ON state and an OFF state determined by binding a GTP or GDP molecule. They control signaling by interacting with other proteins and activating cellular processes in a state-dependent manner. I currently study:
+In my current position as a postdoctoral scholar in [Lars Steinmetz's lab](https://web.stanford.edu/group/steinmetzlab/cgi-bin/wordpress/), I am pursuing two research directions:
+1. Incorporating cellular context into protein design workflows, by training deep learning models on data from combinatorial genomic screens.
+2. Engineering synthetic mitochondrial genomes in living cells.
+
+## Doctoral work
+
+In [Tanja Kortemme's lab](http://kortemmelab.ucsf.edu/), I studied how GTPases are allosterically regulated. GTPases are small proteins that act as "switches", where they have an ON state and an OFF state determined by binding a GTP or GDP molecule. They control signaling by interacting with other proteins and activating cellular processes in a state-dependent manner. I studied:
 
 1. How point mutations in one GTPase, Gsp1 (the yeast homolog of human Ran), can differentially and independently impact various processes in the cell.
-2. How the cell might control these same processes on purpose by employing proteins that bind to Gsp1, making the same structural changes as the point mutations did.
-3. Whether we can discover the molecular mechanisms of allostery in Gsp1 using high-throughput mutational scans 
+2. How the cell might regulate these same processes by employing proteins that bind to Gsp1, making the same structural changes as the point mutations.
+3. Whether we can discover the molecular mechanisms of allostery in Gsp1 using high-throughput mutational scans.
 
-## Future directions - what can this framework do for us moving forward?
+## Undergraduate work
 
-Gsp1 is a superb example of __protein multifunctionality__: a broadly-defined but essential concept for understanding cells, which often use a single multi-functional protein to coordinate distinct downstream functions in a selective fashion, regulated by diverse mechanisms such as post-translational modification, alternative splicing, or changes in localization. Co-ordinating dissimilar biological processes by operating at the intersection of multiple metabolic or signaling pathways is a promising feature for synthetic biologists seeking to design new living systems.
-
-However, protein engineers typically design or evolve new proteins by optimizing just one function at a time, and state-of-the-art examples of synthetic protein networks tend to consist of simpler linear motifs and are in fact optimized for insulation from other pathways. In contrast, naturally occurring multi-functional proteins are optimized through natural evolution which obligately selects on all of their functions simultaneously. __I am interested in developing news strategies for characterizing and engineering proteins with multiple reliable functions that regulate distinct pathways.__ Please reach out if you're interested in similar problems!
-
-## What I've worked on in the past:
-
-My previous research includes work on engineered growth factors for therapeutic applications in [Jennifer Cochran's lab](https://cochranlab.net/). Growth factors and their receptors on the cell surface tell the cell when to grow, as well as how much and how fast. This makes them key therapeutic targets to activate for wound healing, and to suppress in cancer. In the Cochran Lab, I studied how cell types responded differently to engineered therapeutic growth factors because of differences in their cell surface profiles, resulting in different internalization behaviors. Our team then designed specific mutations that were capable of inducing each cellular response, showing how engineering can tailor therapeutic proteins to overcome biological obstacles like internalization.
+I engineered growth factors for therapeutic applications in [Jennifer Cochran's lab](https://cochranlab.net/). Growth factors binding to receptors on the cell surface tell the cell when to grow, for how long and how fast. This makes them key therapeutic targets to activate for wound healing, and to suppress in cancer. I studied how a cell's response to growth factors depends on its specific combination of receptor proteins, and which internalization pathways are activated by each receptor. Specific mutations in the growth factors controllably induced distinct cellular responses, allowing for precise control over therapeutic efficacy.

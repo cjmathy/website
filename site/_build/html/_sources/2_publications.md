@@ -6,108 +6,38 @@
 <a href=https://scholar.google.com/citations?user=DuBa5oYAAAAJ&hl=en>Google Scholar</a>
 </p>
 
-------------------------------------------------------------
+## Emerging maps of allosteric regulation in cellular networks.
+
+Mathy CJP & Kortemme T (2023) *Current Opinion in Structural Biology* (*in press*)
+
+<!-- <font size="3"> [Journal link]() | [Pubmed link]() | [PDF]() </font>  -->
+
 ## A complete allosteric map of a GTPase switch in its native network.
 
-*bioRxiv* (2022)
+Mathy CJP, Mishra P, Flynn JM, Perica T, Mavor D, Bolon DNA, & Kortemme T (2023) *Cell Systems*
 
-__Mathy CJP__, Mishra P, Flynn JM, Perica T, Mavor D, Bolon DNA\*, & Kortemme T\*
+<font size="3"> [Journal link](https://doi.org/10.1016/j.cels.2023.01.003) | [Pubmed link](https://pubmed.ncbi.nlm.nih.gov/36801015/) | [PDF](https://www.sciencedirect.com/sdfe/reader/pii/S2405471223000297/pdf) </font> 
 
-\* co-corresponding authors
-
-[bioRxiv link](https://doi.org/10.1101/2022.04.13.488230)
-
-
-```{image} ../images/dms_paper_dark.png
-:width: 500px
-:align: center
-:class: only-dark
-:alt: Deep mutational scanning of a GTPase uncovers novel allosteric sites
-```
-
-```{image} ../images/dms_paper_light.png
-:width: 500px
-:align: center
-:class: only-light
-:alt: Deep mutational scanning of a GTPase uncovers novel allosteric sites
-```
-
-------------------------------------------------------------
 ## Systems-level effects of allosteric perturbations to a model molecular switch.
 
-*Nature* (2021)
+Perica T\*, Mathy CJP\*, Xu J, Jang GΜ, Zhang Y, Kaake R, Ollikainen N, Braberg H, Swaney DL, Lambright DG, Kelly MJS, Krogan NJ, & Kortemme T (2021) *Nature*
 
-Perica T\*, __Mathy CJP\*__, Xu J, Jang GΜ, Zhang Y, Kaake R, Ollikainen N, Braberg H, Swaney DL, Lambright DG, Kelly MJS, Krogan NJ, & Kortemme T 
-
-\* co-first authors
-
-[Journal link](https://doi.org/10.1038/s41586-021-03982-6) | [Pubmed link](https://pubmed.ncbi.nlm.nih.gov/34646016/) | {download}`Paper PDF <../documents/Perica_Mathy_2021.pdf>` | {download}`Supplement PDF <../documents/Perica_Mathy_2021_supp.pdf>`
-
-- Selected for a [Spotlight](https://doi.org/10.1016/j.tibs.2022.01.006) in *Trends in Biochemical Sciences*
-- Featured in an [article](https://www.ucsf.edu/news/2021/10/421646/how-cells-multitask-magic-molecular-switches) by UCSF
-
-```{image} ../images/gsp1_paper_2021_dark.png
-:width: 650px
-:align: center
-:class: only-dark
-:alt: Profiling the cellular effects of interface mutations in the GTPase Ran/Gsp1
-```
-
-```{image} ../images/gsp1_paper_2021_light.png
-:width: 650px
-:align: center
-:class: only-light
-:alt: Profiling the cellular effects of interface mutations in the GTPase Ran/Gsp1
-```
-
-------------------------------------------------------------
+<font size="3"> [Journal link](https://doi.org/10.1038/s41586-021-03982-6) | [Pubmed link](https://pubmed.ncbi.nlm.nih.gov/34646016/) | {download}`PDF <../documents/Perica_Mathy_2021.pdf>` | {download}`Supplement PDF <../documents/Perica_Mathy_2021_supp.pdf>` | [Spotlight](https://doi.org/10.1016/j.tibs.2022.01.006) in *Trends in Biochemical Sciences* </font> 
 
 ## A proposed workflow for proactive virus surveillance and prediction of variants for vaccine design.
-*PLoS Computational Biology* (2021)
 
-Baker JJ, __Mathy CJP__, & Schaletzky J
+Baker JJ, Mathy CJP, & Schaletzky J (2021) *PLoS Computational Biology*
 
-[Journal link](https://doi.org/10.1371/journal.pcbi.1009624) | [Pubmed link](https://pubmed.ncbi.nlm.nih.gov/34914686/) | {download}`Paper PDF <../documents/Baker_2021.pdf>`
-
-------------------------------------------------------------
+<font size="3"> [Journal link](https://doi.org/10.1371/journal.pcbi.1009624) | [Pubmed link](https://pubmed.ncbi.nlm.nih.gov/34914686/) | [PDF](https://journals.plos.org/ploscompbiol/article/file?id=10.1371/journal.pcbi.1009624&type=printable) </font> 
 
 ## The Global Phosphorylation Landscape of SARS-CoV-2 Infection.
-*Cell* (2020)
 
-Bouhaddou M, Memon D, Meyer B, White KM, Rezelj VV, Correa Marrero M, Polacco BJ, Melnyk JE, Ulferts S, Kaake RM, Batra J, …, __Mathy CJP__, … Krogan NJ
+Bouhaddou M*, Memon D*, Meyer B*, White KM*, Rezelj VV*, Correa Marrero M*, Polacco BJ*, Melnyk JE*, Ulferts S*, Kaake RM*, Batra J*, … Mathy CJP, … Krogan NJ (2020) *Cell*
 
-[Journal link](https://doi.org/10.1016/j.cell.2020.06.034) | [Pubmed link](https://pubmed.ncbi.nlm.nih.gov/32645325/) | {download}`Paper PDF <../documents/Bouhaddou_2020.pdf>`
+<font size="3"> [Journal link](https://doi.org/10.1016/j.cell.2020.06.034) | [Pubmed link](https://pubmed.ncbi.nlm.nih.gov/32645325/) | [PDF](https://www.sciencedirect.com/sdfe/reader/pii/S0092867420308114/pdf) </font> 
 
-------------------------------------------------------------
 ## A SARS-CoV-2 protein interaction map reveals targets for drug repurposing.
-*Nature* (2020)
 
-Gordon DE, Jang GM, Bouhaddou M, Xu J, Obernier K, White KM, O’Meara MJ, Rezelj VV, …, __Mathy CJP__, … Krogan NJ.
+Gordon DE*, Jang GM*, Bouhaddou M*, Xu J*, Obernier K*, White KM*, O’Meara MJ*, Rezelj VV*, … Mathy CJP, … Krogan NJ (2020) *Nature*
 
-[Journal link](https://doi.org/10.1038/s41586-020-2286-9) | [Pubmed link](https://pubmed.ncbi.nlm.nih.gov/32353859/) | {download}`Paper PDF <../documents/Gordon_2020.pdf>` | {download}`Supplement PDF <../documents/Gordon_2020_supp.pdf>`
-
-
-Our collaborators in the Krogan lab mapped the interactions between human and SARS-COV-2 proteins, and looked to our group for structural interpretation. I discovered a conserved interaction motif in the C-terminal end of Orf6 and modeled it with Rosetta (see figure, purple peptide), using as a template a previously solved crystal structure of the Nup98-Rae1 complex bound to a protein from an unrelated virus, VSV ([Quan et al 2014](https://www.pnas.org/doi/10.1073/pnas.1409076111)). The analysis predicted a methionine in the viral motif was key to the interaction, and mutations to this methionine were later shown to disrupt Orf6 binding to the complex ([Miorin et al 2020](https://www.pnas.org/doi/10.1073/pnas.2016650117)).
-
-```{image} ../images/orf6_dark.png
-:width: 500px
-:align: center
-:class: only-dark
-:alt: Profiling the cellular effects of interface mutations in the GTPase Ran/Gsp1
-```
-
-```{image} ../images/orf6_light.png
-:width: 500px
-:align: center
-:class: only-light
-:alt: Profiling the cellular effects of interface mutations in the GTPase Ran/Gsp1
-```
-
-------------------------------------------------------------
-
-
-## Other work
-
-My previous work on growth factor engineering in [Jennifer Cochran's lab](https://cochranlab.stanford.edu/) was accepted for an undergraduate honors thesis:
-
-__Mathy, CJP__ (2016) Engineering the NK1 Fragment of the Human Hepatocyte Growth Factor for Dual Use as a Potent Agonist and a Gene Therapy Delivery Vehicle. *Stanford Digital Repository* | [link](http://purl.stanford.edu/kw533qg7356)
+<font size="3"> [Journal link](https://doi.org/10.1038/s41586-020-2286-9) | [Pubmed link](https://pubmed.ncbi.nlm.nih.gov/32353859/) | [PDF](https://www.nature.com/articles/s41586-020-2286-9.pdf) </font> 
