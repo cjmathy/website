@@ -2,7 +2,7 @@
 
 <img src="../images/mathy_headshot.jpg" alt="drawing" width="200" style="padding-left: 10px" align =  "right" BR CLEAR=”left”>
 
-Welcome! this site covers my work as a bioengineer.
+Welcome! This site covers my work as a bioengineer.
 
 I'm a postdoc in Lars Steinmetz's Lab at [Stanford Genetics](https://web.stanford.edu/group/steinmetzlab/cgi-bin/wordpress/). I build experimental techniques and computational models to map the broad effects of mutations in cells, with the goal of harnessing these maps for synthetic biology. I also work on engineering living cells that have synthetic mitochondria genomes, with some fantastic colleagues at [Powerhouse Bio](https://www.powerhouse.bio/). I did my Ph.D work in Bioengineering with [Tanja Kortemme](http://kortemmelab.ucsf.edu/) at [UCSF](https://graduate.ucsf.edu/bioe), using mutations to learn how allostery is essential for one protein to be multifunctional, regulating several distinct cellular pathways simultaneously.
 

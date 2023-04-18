@@ -16,7 +16,7 @@ Mathy CJP & Kortemme T (2023) *Current Opinion in Structural Biology* (*in press
 
 Mathy CJP, Mishra P, Flynn JM, Perica T, Mavor D, Bolon DNA, & Kortemme T (2023) *Cell Systems*
 
-<font size="3"> [Journal link](https://doi.org/10.1016/j.cels.2023.01.003) | [Pubmed link](https://pubmed.ncbi.nlm.nih.gov/36801015/) | [PDF](https://www.sciencedirect.com/sdfe/reader/pii/S2405471223000297/pdf) </font> 
+<font size="3"> [Journal link](https://doi.org/10.1016/j.cels.2023.01.003) | [Pubmed link](https://pubmed.ncbi.nlm.nih.gov/36801015/) | [PDF](https://www.cell.com/cell-systems/pdfExtended/S2405-4712(23)00029-7) </font> 
 
 ## Systems-level effects of allosteric perturbations to a model molecular switch.
 
