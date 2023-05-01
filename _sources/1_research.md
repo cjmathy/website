@@ -2,7 +2,7 @@
 
 ## The multi-scale nature of protein function
 
-Proteins function within extensive networks of proteins. Even slight changes in a protein caused by mutations can have far-reaching effects beyond its immediate network. This is because cellular networks are highly interconnected. This propagation plays a key role in genetic diseases such as cancer and neurodegenerative diseases, where a single mutation can affect the entire body. Better understanding of this propagation can improve the design of effective and minimally harmful treatments.
+Proteins function within extensive and highly interconnected networks, such that even slight changes in a protein caused by mutations can have far-reaching effects beyond its immediate connections. This propagation plays a key role in genetic diseases like cancer and neurodegenerative diseases, where a single mutation can affect the entire body. Better understanding of this propagation can improve the design of effective and minimally harmful treatments.
 
 
 In many cases, individual proteins evolve to be multifunctional: their primary function occurs at the intersection of cellular networks. This ability to co-ordinate dissimilar cellular processes (such as metabolic or signaling pathways) is a promising feature for synthetic biologists when designing new living systems. However, our current understanding and tools for designing multifunctional proteins are limited. Therefore, my research focuses on developing these tools, using both experimental (wet lab) and computational (dry lab) techniques.
