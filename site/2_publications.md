@@ -10,8 +10,7 @@
 
 Mathy CJP & Kortemme T (2023) *Current Opinion in Structural Biology*
 
-<font size="3"> [Journal link](https://doi.org/10.1016/j.sbi.2023.102602) | [PDF](https://www.sciencedirect.com/sdfe/reader/pii/S0959440X23000763/pdf) </font> 
-<!-- <font size="3"> [Journal link](https://doi.org/10.1016/j.sbi.2023.102602) | [Pubmed link]() | [PDF](https://www.sciencedirect.com/sdfe/reader/pii/S0959440X23000763/pdf) </font>  -->
+<font size="3"> [Journal link](https://doi.org/10.1016/j.sbi.2023.102602) | [Pubmed link](https://pubmed.ncbi.nlm.nih.gov/37150039/) | [PDF](https://www.sciencedirect.com/sdfe/reader/pii/S0959440X23000763/pdf) </font> 
 
 ## A complete allosteric map of a GTPase switch in its native network.
 
