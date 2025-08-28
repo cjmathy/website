@@ -4,7 +4,7 @@
 
 Welcome! This site covers my work as a bioengineer.
 
-I'm a postdoc in Lars Steinmetz's Lab at [Stanford Genetics](https://web.stanford.edu/group/steinmetzlab/cgi-bin/wordpress/). I build experimental techniques and computational models to map the broad effects of mutations in cells, with the goal of harnessing these maps for synthetic biology. I also engineer cells to have mitochondria with synthetic genomes for applications in synthetic biology, disease modeling, and therapeutic development. I did my Ph.D work in Bioengineering with [Tanja Kortemme](http://kortemmelab.ucsf.edu/) at [UCSF](https://graduate.ucsf.edu/bioe), using mutations to learn how allostery is essential for one protein to be multifunctional, regulating several distinct cellular pathways simultaneously.
+I'm a postdoc in Lars Steinmetz's Lab at [Stanford Genetics](https://web.stanford.edu/group/steinmetzlab/cgi-bin/wordpress/). I engineer cells to have mitochondria with synthetic genomes for applications in synthetic biology, disease modeling, and therapeutic development. I also develop experimental techniques and computational models to map the broad effects of mutations in cells, with the goal of harnessing these maps for synthetic biology. I did my Ph.D work in Bioengineering with [Tanja Kortemme](http://kortemmelab.ucsf.edu/) at [UCSF](https://graduate.ucsf.edu/bioe), using mutations to learn how allostery is essential for one protein to be multifunctional, regulating several distinct cellular pathways simultaneously.
 
 Although proteins act at the molecular scale, they're part of a vast network in the cell. Small structural changes in proteins can undermine the health of cells, tissues, and entire organisms. Since this research question spans multiple biological scales, tackling it must be interdisciplinary: biochemistry and structural biology to study the molecular scale, systems techniques to study the cellular scale, and computation to model proteins and their networks.
 
@@ -28,4 +28,3 @@ You can find me on:
 - [Google Scholar](https://scholar.google.com/citations?user=DuBa5oYAAAAJ&hl=en&oi=sra)
 - [Github](https://github.com/cjmathy)
 - [LinkedIn](https://linkedin.com/in/christopher-mathy/)
-- [Twitter](https://twitter.com/cjmathy)
