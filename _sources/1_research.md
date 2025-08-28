@@ -24,8 +24,8 @@ In many cases, individual proteins evolve to be multifunctional: their primary j
 ## Postdoctoral work
 
 In my current position as a postdoctoral scholar in [Lars Steinmetz's lab](https://web.stanford.edu/group/steinmetzlab/cgi-bin/wordpress/), I am pursuing two research directions:
-1. Incorporating cellular context into protein design workflows, by training deep learning models on data from combinatorial genomic screens.
-2. Engineering synthetic mitochondrial genomes in living cells.
+1. Engineering synthetic mitochondrial genomes in living cells. This involves solving longstanding issues in cloning toxic mtDNA species, as well as adapting nucleic acid delivery methods for integration of synthetic mtDNA in cultured human cells.
+2. Incorporating cellular context into protein design workflows, by training deep learning models on data from combinatorial genomic screens.
 
 ## Doctoral work
 
